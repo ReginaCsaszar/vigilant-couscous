@@ -1,2 +1,2 @@
-# vigilant-couscous
-DjangoGirls workshop stuff
+# DjangoGirls workshop
+ 2017.06.10
